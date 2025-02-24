@@ -1,4 +1,4 @@
-# Pyton_TheNotesFpplication
+# Pyton_TheNotesApplication
 Промежуточная контрольная работа по блоку специализация Урок 1. Приложение заметки (Python)
 
 Информация о проекте
